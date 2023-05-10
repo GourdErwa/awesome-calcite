@@ -1,2 +1,2 @@
-rootProject.name = "awesome-calcite"
+rootProject.name = "awesome-sql-builder"
 
